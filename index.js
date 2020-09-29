@@ -1,4 +1,4 @@
 //new project
-function makho(){
-    
+function makho(name){
+   return "hello " + name;
 }
